@@ -32,6 +32,7 @@ Our approach followed a data pipeline methodology:
 - Engagement Drivers: Visual and interactive marketing content generated higher engagement compared to text-heavy campaigns.
 
 <h2>Results & Recommendations</h2>
+
 - Improve product quality and delivery services, as these were common pain points in negative reviews.
 - Redesign the checkout experience to reduce drop-offs and boost conversion.
 - Focus on visual marketing campaigns (videos, infographics) to increase engagement.
