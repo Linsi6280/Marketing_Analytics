@@ -1,4 +1,4 @@
-# Marketing_Analytics
+# Marketing Analytics
 <h2>Description</h2>
 This project analyzes the marketing challenges of ShopEasy, an online retail business facing:
 
