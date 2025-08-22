@@ -17,7 +17,7 @@ The repository is organized into the following folders:
     <li><b>python/:</b> Includes the Python script for sentiment analysis of customer reviews.</li>
     <li><b>power-bi/:</b> Holds the Power BI project file for the interactive dashboard.</li>
 </ul>
-The final presentation summarizing the project's findings and recommendations can be found in <b>ShopEasy.pptx</b> and <b>ShopEasy.pdf</b>.
+The final presentation summarizing the project's findings and recommendations can be found in <b>[ShopEasy.pptx](https://github.com/Linsi6280/Marketing_Analytics/blob/main/ShopEasy.pptx)</b> and <b>[ShopEasy.pdf](https://github.com/Linsi6280/Marketing_Analytics/blob/main/ShopEasy.pdf)</b>.
 
 <h2>Approach</h2>
 Our approach followed a data pipeline methodology:
