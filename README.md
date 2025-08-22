@@ -10,6 +10,15 @@ This project analyzes the marketing challenges of ShopEasy, an online retail bus
 The goal is to use data-driven insights to optimize marketing strategies, improve customer engagement, and boost conversion rates.
 <br />
 
+<h2>Repository Structure</h2>
+The repository is organized into the following folders:
+<ul>
+    <li><b>sql/:</b> Contains SQL scripts for data cleaning, transformation, and modeling.</li>
+    <li><b>python/:</b> Includes the Python script for sentiment analysis of customer reviews.</li>
+    <li><b>power-bi/:</b> Holds the Power BI project file for the interactive dashboard.</li>
+</ul>
+The final presentation summarizing the project's findings and recommendations can be found in <b>ShopEasy.pptx</b>.
+
 <h2>Approach</h2>
 Our approach followed a data pipeline methodology:
 
